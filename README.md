@@ -1,6 +1,6 @@
-hi im kierago and i like the stonehenge
+Hi, I'm kierago and I like the Stonehenge.
 
-i plan on learning c and c++ for experimenting with the nintendo wii and some software
+I plan on learning C and C++ for Wii modding and experimenting with some software.
 
 
 anyways have a pleasant day :)
