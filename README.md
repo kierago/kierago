@@ -1,6 +1,3 @@
-Hi, I'm kierago and I like the Stonehenge.
+hello!! im kierago and i like the stonehenge and weddell seals.
 
-I plan on learning C and C++ for Wii modding and experimenting with some software.
-
-
-anyways have a pleasant day :)
+as you will progressively see, i will be attempting to learn c and c++ or something; anyways have a good day :)
